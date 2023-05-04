@@ -1,5 +1,3 @@
-.......................................................... Read Me File Git ..................................................................
-
 # 💫 About Me:
 I'm a backend developer and I'm working with C# , HTML , CSS , JavaScript programming language right now<br>and I'm currently learning ASP.NET.
 
